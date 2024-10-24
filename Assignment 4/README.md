@@ -4,18 +4,18 @@ Assignment 4 consists of implementing Data Science using ChatGPT and then publis
 
 Medium Article: [Link](https://medium.com/@ronakmalkan2062001/predicting-medical-insurance-costs-a-data-science-journey-using-gradient-boosting-b42cbea9b123)
 
-We also have to use GitHub Copilot/ Claudedev to create a full stack application. We have to:
+We also have to use GitHub Copilot/ Claudedev to create a full-stack application. We have to:
 
-1. Writing functions and code
-2. Refactoring code
-3. Writing unit tests
-4. Writing entire app
+1. Write functions and code
+2. Refactor code
+3. Write unit tests
+4. Write the entire app
 
 I have chosen to use Github Copilot for the task.
 
-I have made a Todo application for this task, which uses Node.js/Express.js as it's backend, React for the frontend, and SQLite for the database.
+I have made a Todo application for this task, which uses Node.js/Express.js as its backend, React for the frontend, and SQLite for the database.
 
-I have also used Jest for testing purpose.
+I have also used Jest for testing purposes.
 
 I have created Loom videos which demonstrate the code and working application:
 
